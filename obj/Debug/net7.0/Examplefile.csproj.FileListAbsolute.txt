@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Examplefile/bin/Debug/net7.0/Examplefile
+/Users/macos/Desktop/Operator/Examplefile/bin/Debug/net7.0/Examplefile.deps.json
+/Users/macos/Desktop/Operator/Examplefile/bin/Debug/net7.0/Examplefile.runtimeconfig.json
+/Users/macos/Desktop/Operator/Examplefile/bin/Debug/net7.0/Examplefile.dll
+/Users/macos/Desktop/Operator/Examplefile/bin/Debug/net7.0/Examplefile.pdb
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.dll
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/refint/Examplefile.dll
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.pdb
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/Examplefile.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Examplefile/obj/Debug/net7.0/ref/Examplefile.dll
